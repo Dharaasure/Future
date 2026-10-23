@@ -1,0 +1,21 @@
+Many Incidents
+
+My parents took my birth details to an astrologer and came home with my name. Dharaa means thread in Kannada; the second A is for numerology. Vastu, India's building science, chose the direction I sleep facing. Nobody asked me to believe any of it. It was there, like the plumbing.
+
+I believe nothing until I've checked it, yet I still read my chart for luck. So I check the chart, recomputing its math in Python against the Swiss Ephemeris. Whether the planets mean anything, I haven't settled. But charts taught me the one rule I trust: read a chart whole, across years. Ask it about a single day and it answers confidently, and wrong.
+
+In July, I turned my checking to people: an archive of Indian migrants' memories in Doha. I grew up here as one of their daughters and had never asked them anything. I strip each memory to checkable facts, have an AI retell it in the person's voice, and look for the seam: the line where the machine runs out of facts and starts inventing.
+
+Subramanya, nineteen years in Qatar, gave me the day his daughter was born. My summary said that one day proved the country cared for him. "Many times," he said. I crossed out "the day," wrote "many incidents" above it, then asked my next question about another single day. He had just told me there wasn't one.
+
+Being wrong usually embarrasses me. This was quieter and worse: he had corrected me so gently that I missed it. That night, because my phone's transcriber knows only English, I retyped his Kannada myself at the speed he spoke, three hours, Kannada above English, so the words stayed his. He had called Qatar a second home, then karma bhoomi: the land where your work is done. "Of our two eyes," he said, "one is India, one is Qatar."
+
+The machine made the same mistake I had. Given one fact about his older son, born in India, it moved the birth to Mangalore, a city he is not from, and gave his wife a line she never said. Where it had nothing, it invented; where it had words, it dropped them.
+
+So had I. The AI's versions dropped thirty-two names and phrases from the recordings; twenty-four were already missing from my own summaries.
+
+So I changed how I listen. With Sujith, I asked one question and let it run. Half an hour in, he spoke of the year he was laid off. Nobody in India knows; people there picture a lavish life, and he lets them. As a summary, he said, his years here would read as a line. Now I end every interview by asking what a summary would miss, and that answer never goes to the machine. Val paused before giving her name: someone had once interviewed her, and she never saw what came of it. I made the promise I now make everyone: you read your transcript first, you see the machine's version, and you can strike any line. She went on; later, she said the machine "added a lot of masala."
+
+I had read people the way a chart should never be read, one fact at a time. That works on data. On a person it leaves gaps, and I filled them: Subramanya gave me nineteen years, I wrote down one day, and it felt exactly like checking. He could correct me because he was in the room. Most people a system writes about never are. Next, each person will read the machine's version and mark the seam themselves, where it stops being their life.
+
+I still sleep facing the direction I was given and spell my name with both A's. My father says Dharaa also means flowing water in Sanskrit. I checked the dictionary; he's right. Him, I read the way a chart should be read: whole, across years.
